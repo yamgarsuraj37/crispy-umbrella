@@ -30,6 +30,7 @@ public class ProgramName1 {
 
           System.out.println("practice string programs");
 		System.out.println("New push from me");
+		System.out.println("'Git branch' - to check on which branch you are");
 		}
 
 	}
