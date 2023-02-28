@@ -28,7 +28,7 @@ public class ProgramName1 {
 			System.out.println(sb1.equals(sb2));//false
 			System.out.println(sb1==sb2);//false //false
 
-
+          System.out.println("practice string programs");
 		}
 
 	}
